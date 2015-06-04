@@ -1,0 +1,2 @@
+{:require  [reagent-occlusion-culling.app]
+ :init-fns [reagent-occlusion-culling.app/init]}
