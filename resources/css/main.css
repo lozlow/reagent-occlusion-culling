@@ -1,0 +1,20 @@
+.Grid {
+  border: 1px solid #ddd;
+}
+
+.Grid__table {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.Grid__row--odd {
+  background: #eee;
+}
+
+.Grid__row--even {
+  background: #ddd;
+}
+
+.Grid__cell {
+  padding: 0;
+}
